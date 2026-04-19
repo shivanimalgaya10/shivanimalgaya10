@@ -53,7 +53,6 @@ A passionate Full Stack & DevOps Engineer from India 🚀 with a strong commitme
 <p align="left">
 <a href="https://www.mongodb.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="40" height="40"/></a>
 <a href="https://www.mysql.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" height="40"/></a>
-<a href="https://www.oracle.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" width="40" height="40"/></a>
 </p>
 
 #### ☁️ Cloud & DevOps
@@ -67,16 +66,6 @@ A passionate Full Stack & DevOps Engineer from India 🚀 with a strong commitme
  <a href="https://nginx.org/">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" width="40" height="40"/>
 </a> 
-</p>
-🔐 DevSecOps & Security
-
-<p align="left">
-<a href="https://www.sonarqube.org/">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sonarqube/sonarqube-original.svg" width="40" height="40"/>
-</a>
-<a href="https://aquasecurity.github.io/trivy/">
-  <img src="https://raw.githubusercontent.com/aquasecurity/trivy/main/docs/imgs/logo.png" width="40" height="40"/>
-</a>
 </p>
 
 #### 📊 Monitoring & Tools
